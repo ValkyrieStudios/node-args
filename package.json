@@ -1,0 +1,25 @@
+{
+  "name": "@valkyriestudios/node-args",
+  "version": "1.0.0",
+  "description": "An argument parser for node processes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "build": "gulp"
+  },
+  "keywords": ["node", "cli", "argument", "parser"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValkyrieStudios/node-args.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ValkyrieStudios/node-args/issues"
+  },
+  "author": {
+    "name": "Valkyrie Studios",
+    "email": "contact@valkyriestudios.be",
+    "url": "https://www.valkyriestudios.be"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ValkyrieStudios/node-args#readme"
+}
