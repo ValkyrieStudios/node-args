@@ -1,5 +1,8 @@
 ## @valkyriestudios/node-args
 
+[![npm](https://img.shields.io/npm/v/@valkyriestudios/node-args.svg)](https://www.npmjs.com/package/@valkyriestudios/node-args)
+[![npm](https://img.shields.io/npm/dm/@valkyriestudios/node-args.svg)](https://www.npmjs.com/package/@valkyriestudios-node-args)
+
 A lightweight node script that reads and parses the arguments passed to a cli command, both converting them to their respective primitives and
 organizing them for easy access.
 
